@@ -34,6 +34,8 @@ public class Login_VyTruck {
         System.out.println("Expected tile is "+expectedTitle);
         System.out.println("Actual title is "+actualTitle);
 
+        System.out.println("Sabir's first pushing");
+
         if (expectedTitle == actualTitle){
             System.out.println("Test failed");
         }else
